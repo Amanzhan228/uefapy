@@ -1,4 +1,4 @@
-Company Name: "FC Data Analytics" or "Champions Insights" or "Football Intelligence"
+Company Name:"Football Intelligence"
 
 Project Description:
 "At FC Data Analytics, we specialize in sports performance analysis. This project focuses on the UEFA Champions League, where we analyze player and team statistics to provide a deep understanding of on-field performance. We transform raw data from various tables into actionable insights, helping teams and fans evaluate player effectiveness in attack, defense, and more."
@@ -110,4 +110,5 @@ python main.py
 Связь дисциплины и результативности: Исследование показывает, как количество жёлтых и красных карточек связано с количеством забитых голов.
 
 Автор
+
 Аманжан Гайсиев
